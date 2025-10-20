@@ -1,0 +1,100 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/270d4895-1aad-4656-ae6e-f12a65fa922f.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\270d4895-1aad-4656-ae6e-f12a65fa922f.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 10:38:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/270d4895-1aad-4656-ae6e-f12a65fa922f.zxjvqhx7zo.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\270d4895-1aad-4656-ae6e-f12a65fa922f.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zxjvqhx7zo"},{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="},{"Name":"label","Value":"_content/EducationalPlatform_Backend/fisiere/270d4895-1aad-4656-ae6e-f12a65fa922f.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 10:38:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/3dd5e119-b63e-46a8-b2a0-0a683e6f4086.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\3dd5e119-b63e-46a8-b2a0-0a683e6f4086.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 11:01:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/3dd5e119-b63e-46a8-b2a0-0a683e6f4086.zxjvqhx7zo.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\3dd5e119-b63e-46a8-b2a0-0a683e6f4086.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zxjvqhx7zo"},{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="},{"Name":"label","Value":"_content/EducationalPlatform_Backend/fisiere/3dd5e119-b63e-46a8-b2a0-0a683e6f4086.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 11:01:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/67178a55-4da1-4a40-84c0-87be0084dc3d.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\67178a55-4da1-4a40-84c0-87be0084dc3d.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 10:44:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/67178a55-4da1-4a40-84c0-87be0084dc3d.zxjvqhx7zo.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\67178a55-4da1-4a40-84c0-87be0084dc3d.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zxjvqhx7zo"},{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="},{"Name":"label","Value":"_content/EducationalPlatform_Backend/fisiere/67178a55-4da1-4a40-84c0-87be0084dc3d.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 10:44:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/ai-intro.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\ai-intro.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 11:05:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/ai-intro.zxjvqhx7zo.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\ai-intro.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zxjvqhx7zo"},{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="},{"Name":"label","Value":"_content/EducationalPlatform_Backend/fisiere/ai-intro.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 11:05:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/b3b930bc-758b-4fc7-a160-559438d60ec3.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\b3b930bc-758b-4fc7-a160-559438d60ec3.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 10:40:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/b3b930bc-758b-4fc7-a160-559438d60ec3.zxjvqhx7zo.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\b3b930bc-758b-4fc7-a160-559438d60ec3.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zxjvqhx7zo"},{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="},{"Name":"label","Value":"_content/EducationalPlatform_Backend/fisiere/b3b930bc-758b-4fc7-a160-559438d60ec3.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 10:40:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/d2740439-0ae3-4e24-b106-2c35d9a93be6.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\d2740439-0ae3-4e24-b106-2c35d9a93be6.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 10:34:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/d2740439-0ae3-4e24-b106-2c35d9a93be6.zxjvqhx7zo.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\d2740439-0ae3-4e24-b106-2c35d9a93be6.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zxjvqhx7zo"},{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="},{"Name":"label","Value":"_content/EducationalPlatform_Backend/fisiere/d2740439-0ae3-4e24-b106-2c35d9a93be6.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 10:34:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/lab1-python.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\lab1-python.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 11:06:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/lab1-python.zxjvqhx7zo.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\lab1-python.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zxjvqhx7zo"},{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="},{"Name":"label","Value":"_content/EducationalPlatform_Backend/fisiere/lab1-python.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 11:06:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/test.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\test.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 10:50:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EducationalPlatform_Backend/fisiere/test.zxjvqhx7zo.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fisiere\test.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zxjvqhx7zo"},{"Name":"integrity","Value":"sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk="},{"Name":"label","Value":"_content/EducationalPlatform_Backend/fisiere/test.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u\u002B\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 10:50:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

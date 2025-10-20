@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\controllers\\testresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\controllers\\testresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\controllers\\completedlessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\controllers\\completedlessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\models\\completedlesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\models\\completedlesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\models\\completedlessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\models\\completedlessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\models\\lessonuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\models\\lessonuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|c:\\users\\vlad capraru\\descarcarile mele\\sem ii anul 3\\proiect\\educationalplatform_backend\\educationalplatform_backend\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E43C84-08F1-4F57-A7D9-5AFDE513AECA}|EducationalPlatform_Backend\\EducationalPlatform_Backend.csproj|solutionrelative:educationalplatform_backend\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\TestsController.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Controllers\\TestsController.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\TestsController.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Controllers\\TestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:00:26.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestResultsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\TestResultsController.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Controllers\\TestResultsController.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\TestResultsController.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Controllers\\TestResultsController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:02:36.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:33:29.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:40:51.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LessonsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\LessonsController.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Controllers\\LessonsController.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\LessonsController.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Controllers\\LessonsController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAowGsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:57:22.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompletedLessonsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\CompletedLessonsController.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Controllers\\CompletedLessonsController.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\CompletedLessonsController.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Controllers\\CompletedLessonsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:06:13.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\Post.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:21:54.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompletedLesson.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\CompletedLesson.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Models\\CompletedLesson.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\CompletedLesson.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Models\\CompletedLesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:19:56.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\Test.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Models\\Test.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:20:32.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestResult.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\TestResult.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Models\\TestResult.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\TestResult.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Models\\TestResult.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:21:15.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompletedLessonDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\CompletedLessonDto.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Models\\CompletedLessonDto.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\CompletedLessonDto.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Models\\CompletedLessonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:46:22.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Program.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:08:22.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:23:29.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\appsettings.json",
+              "RelativeToolTip": "EducationalPlatform_Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T10:08:34.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\LoginDto.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:39:15.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\User.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:16:45.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA0wEUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:37:27.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LessonUploadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\LessonUploadDto.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Models\\LessonUploadDto.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\LessonUploadDto.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Models\\LessonUploadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:23:17.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\Lesson.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Models\\Lesson.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\Lesson.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Models\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:19:10.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform_Backend\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\Models\\UserDto.cs",
+              "RelativeToolTip": "EducationalPlatform_Backend\\Models\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:38:54.644Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

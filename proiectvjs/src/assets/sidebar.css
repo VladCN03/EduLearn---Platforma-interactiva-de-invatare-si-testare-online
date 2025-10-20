@@ -1,0 +1,164 @@
+.sidebar {
+    width: 250px;
+    min-width: 250px;
+    background: linear-gradient(180deg, #6bc1ff 0%, #72e4d5 100%);
+    color: #2c2c2c;
+    display: flex;
+    flex-direction: column;
+    padding: 24px 0 0 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    height: 100vh;
+    box-shadow: 2px 0 10px #0001;
+    z-index: 10;
+    font-family: 'Inter', sans-serif; /* FONT NOU */
+}
+.logo {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 40px;
+    color: #fff;
+    text-align: center;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    display: flex;
+    align-items: center;
+    padding: 14px 28px;
+    border-radius: 12px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    font-size: 1.08rem;
+    transition: background 0.2s;
+    font-family: 'Inter', sans-serif;
+}
+li:hover {
+    background: #fff;
+    color: #267be8;
+    box-shadow: 0 2px 10px #0001;
+}
+i {
+    margin-right: 16px;
+    font-size: 1.4em;
+}
+.user-section {
+    /* margin-top: auto; scoate fixarea jos */
+    margin-bottom: 20px;
+    margin-top: auto;
+    padding: 18px 20px 14px 20px;
+    border-top: 1px solid #eee;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+    background: rgba(255,255,255,0.10);
+    border-radius: 14px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.user-section:hover {
+    background: rgba(255,255,255,0.22);
+}
+.user-info {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 100%;
+}
+.user-info strong {
+    font-size: 1.07rem;
+    color: #1b1b1b;
+    font-family: 'Inter', sans-serif;
+}
+.user-role {
+    font-size: 0.93rem;
+    color: #547488;
+    font-weight: 400;
+    letter-spacing: 0.1px;
+    font-family: 'Inter', sans-serif;
+}
+
+.user-menu {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: calc(100% + 12px); /* meniul e deasupra user-section, cu spațiu de 12px */
+    background: #fff;
+    color: #333;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px #0001;
+    padding: 16px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 180px;
+    z-index: 20;
+    animation: fade-in 0.18s;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.18s;
+}
+.user-section:hover .user-menu {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.user-menu a {
+    color: #267be8;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s;
+    font-family: 'Inter', sans-serif;
+}
+.user-menu a:hover {
+    color: #13b98f;
+}
+.user-section-inline {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-top: 22px;
+    padding: 0 8px;
+}
+
+.user-info-inline {
+    display: flex;
+    flex-direction: column;
+    min-width: 100px;
+}
+.user-role {
+    font-size: 0.92em;
+    color: #7eb8e6;
+    font-weight: 500;
+}
+
+.logout-btn {
+    background: #ff4b5c;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 7px 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+.logout-btn:hover {
+    background: #e33b49;
+}
+@keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+.sidebar .nav-link {
+    text-decoration: none;     /* elimină sublinierea */
+    color: inherit;            /* păstrează culoarea moștenită (ex. negru sau alb) */
+    display: block;            /* ocupă tot spațiul în li */
+    padding: 10px 20px;
+    cursor: pointer;
+}
+

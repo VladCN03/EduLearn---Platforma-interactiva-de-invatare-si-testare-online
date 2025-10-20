@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\270d4895-1aad-4656-ae6e-f12a65fa922f.txt",
+      "PackagePath": "staticwebassets\\fisiere\\270d4895-1aad-4656-ae6e-f12a65fa922f.txt"
+    },
+    {
+      "Id": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\3dd5e119-b63e-46a8-b2a0-0a683e6f4086.txt",
+      "PackagePath": "staticwebassets\\fisiere\\3dd5e119-b63e-46a8-b2a0-0a683e6f4086.txt"
+    },
+    {
+      "Id": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\67178a55-4da1-4a40-84c0-87be0084dc3d.txt",
+      "PackagePath": "staticwebassets\\fisiere\\67178a55-4da1-4a40-84c0-87be0084dc3d.txt"
+    },
+    {
+      "Id": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\ai-intro.txt",
+      "PackagePath": "staticwebassets\\fisiere\\ai-intro.txt"
+    },
+    {
+      "Id": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\b3b930bc-758b-4fc7-a160-559438d60ec3.txt",
+      "PackagePath": "staticwebassets\\fisiere\\b3b930bc-758b-4fc7-a160-559438d60ec3.txt"
+    },
+    {
+      "Id": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\d2740439-0ae3-4e24-b106-2c35d9a93be6.txt",
+      "PackagePath": "staticwebassets\\fisiere\\d2740439-0ae3-4e24-b106-2c35d9a93be6.txt"
+    },
+    {
+      "Id": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\lab1-python.txt",
+      "PackagePath": "staticwebassets\\fisiere\\lab1-python.txt"
+    },
+    {
+      "Id": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\test.txt",
+      "PackagePath": "staticwebassets\\fisiere\\test.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EducationalPlatform_Backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EducationalPlatform_Backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EducationalPlatform_Backend.props",
+      "PackagePath": "build\\EducationalPlatform_Backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EducationalPlatform_Backend.props",
+      "PackagePath": "buildMultiTargeting\\EducationalPlatform_Backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EducationalPlatform_Backend.props",
+      "PackagePath": "buildTransitive\\EducationalPlatform_Backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

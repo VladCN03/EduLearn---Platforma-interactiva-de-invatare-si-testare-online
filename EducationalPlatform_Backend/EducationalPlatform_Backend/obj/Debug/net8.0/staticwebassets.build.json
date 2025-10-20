@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "CmD4FYcVmnAnux39UySbFRRYXzxPduv8xAY2U5I2Kdc=",
+  "Source": "EducationalPlatform_Backend",
+  "BasePath": "_content/EducationalPlatform_Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EducationalPlatform_Backend\\wwwroot",
+      "Source": "EducationalPlatform_Backend",
+      "ContentRoot": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\",
+      "BasePath": "_content/EducationalPlatform_Backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\270d4895-1aad-4656-ae6e-f12a65fa922f.txt",
+      "SourceId": "EducationalPlatform_Backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\",
+      "BasePath": "_content/EducationalPlatform_Backend",
+      "RelativePath": "fisiere/270d4895-1aad-4656-ae6e-f12a65fa922f#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zxjvqhx7zo",
+      "Integrity": "SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fisiere\\270d4895-1aad-4656-ae6e-f12a65fa922f.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\3dd5e119-b63e-46a8-b2a0-0a683e6f4086.txt",
+      "SourceId": "EducationalPlatform_Backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\",
+      "BasePath": "_content/EducationalPlatform_Backend",
+      "RelativePath": "fisiere/3dd5e119-b63e-46a8-b2a0-0a683e6f4086#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zxjvqhx7zo",
+      "Integrity": "SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fisiere\\3dd5e119-b63e-46a8-b2a0-0a683e6f4086.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\67178a55-4da1-4a40-84c0-87be0084dc3d.txt",
+      "SourceId": "EducationalPlatform_Backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\",
+      "BasePath": "_content/EducationalPlatform_Backend",
+      "RelativePath": "fisiere/67178a55-4da1-4a40-84c0-87be0084dc3d#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zxjvqhx7zo",
+      "Integrity": "SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fisiere\\67178a55-4da1-4a40-84c0-87be0084dc3d.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\ai-intro.txt",
+      "SourceId": "EducationalPlatform_Backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\",
+      "BasePath": "_content/EducationalPlatform_Backend",
+      "RelativePath": "fisiere/ai-intro#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zxjvqhx7zo",
+      "Integrity": "SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fisiere\\ai-intro.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\b3b930bc-758b-4fc7-a160-559438d60ec3.txt",
+      "SourceId": "EducationalPlatform_Backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\",
+      "BasePath": "_content/EducationalPlatform_Backend",
+      "RelativePath": "fisiere/b3b930bc-758b-4fc7-a160-559438d60ec3#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zxjvqhx7zo",
+      "Integrity": "SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fisiere\\b3b930bc-758b-4fc7-a160-559438d60ec3.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\d2740439-0ae3-4e24-b106-2c35d9a93be6.txt",
+      "SourceId": "EducationalPlatform_Backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\",
+      "BasePath": "_content/EducationalPlatform_Backend",
+      "RelativePath": "fisiere/d2740439-0ae3-4e24-b106-2c35d9a93be6#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zxjvqhx7zo",
+      "Integrity": "SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fisiere\\d2740439-0ae3-4e24-b106-2c35d9a93be6.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\lab1-python.txt",
+      "SourceId": "EducationalPlatform_Backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\",
+      "BasePath": "_content/EducationalPlatform_Backend",
+      "RelativePath": "fisiere/lab1-python#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zxjvqhx7zo",
+      "Integrity": "SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fisiere\\lab1-python.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\test.txt",
+      "SourceId": "EducationalPlatform_Backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\",
+      "BasePath": "_content/EducationalPlatform_Backend",
+      "RelativePath": "fisiere/test#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zxjvqhx7zo",
+      "Integrity": "SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fisiere\\test.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "fisiere/270d4895-1aad-4656-ae6e-f12a65fa922f.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\270d4895-1aad-4656-ae6e-f12a65fa922f.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 10:38:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/270d4895-1aad-4656-ae6e-f12a65fa922f.zxjvqhx7zo.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\270d4895-1aad-4656-ae6e-f12a65fa922f.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 10:38:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxjvqhx7zo"
+        },
+        {
+          "Name": "label",
+          "Value": "fisiere/270d4895-1aad-4656-ae6e-f12a65fa922f.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/3dd5e119-b63e-46a8-b2a0-0a683e6f4086.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\3dd5e119-b63e-46a8-b2a0-0a683e6f4086.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:01:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/3dd5e119-b63e-46a8-b2a0-0a683e6f4086.zxjvqhx7zo.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\3dd5e119-b63e-46a8-b2a0-0a683e6f4086.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:01:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxjvqhx7zo"
+        },
+        {
+          "Name": "label",
+          "Value": "fisiere/3dd5e119-b63e-46a8-b2a0-0a683e6f4086.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/67178a55-4da1-4a40-84c0-87be0084dc3d.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\67178a55-4da1-4a40-84c0-87be0084dc3d.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 10:44:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/67178a55-4da1-4a40-84c0-87be0084dc3d.zxjvqhx7zo.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\67178a55-4da1-4a40-84c0-87be0084dc3d.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 10:44:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxjvqhx7zo"
+        },
+        {
+          "Name": "label",
+          "Value": "fisiere/67178a55-4da1-4a40-84c0-87be0084dc3d.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/ai-intro.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\ai-intro.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:05:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/ai-intro.zxjvqhx7zo.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\ai-intro.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:05:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxjvqhx7zo"
+        },
+        {
+          "Name": "label",
+          "Value": "fisiere/ai-intro.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/b3b930bc-758b-4fc7-a160-559438d60ec3.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\b3b930bc-758b-4fc7-a160-559438d60ec3.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 10:40:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/b3b930bc-758b-4fc7-a160-559438d60ec3.zxjvqhx7zo.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\b3b930bc-758b-4fc7-a160-559438d60ec3.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 10:40:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxjvqhx7zo"
+        },
+        {
+          "Name": "label",
+          "Value": "fisiere/b3b930bc-758b-4fc7-a160-559438d60ec3.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/d2740439-0ae3-4e24-b106-2c35d9a93be6.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\d2740439-0ae3-4e24-b106-2c35d9a93be6.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 10:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/d2740439-0ae3-4e24-b106-2c35d9a93be6.zxjvqhx7zo.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\d2740439-0ae3-4e24-b106-2c35d9a93be6.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 10:34:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxjvqhx7zo"
+        },
+        {
+          "Name": "label",
+          "Value": "fisiere/d2740439-0ae3-4e24-b106-2c35d9a93be6.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/lab1-python.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\lab1-python.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:06:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/lab1-python.zxjvqhx7zo.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\lab1-python.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:06:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxjvqhx7zo"
+        },
+        {
+          "Name": "label",
+          "Value": "fisiere/lab1-python.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/test.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\test.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 10:50:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    },
+    {
+      "Route": "fisiere/test.zxjvqhx7zo.txt",
+      "AssetFile": "C:\\Users\\Vlad Capraru\\Descarcarile mele\\Sem II Anul 3\\Proiect\\Proiect\\EducationalPlatform_Backend\\EducationalPlatform_Backend\\wwwroot\\fisiere\\test.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 10:50:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxjvqhx7zo"
+        },
+        {
+          "Name": "label",
+          "Value": "fisiere/test.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SXsi1OhqPKqfW6okQ1qZrBFUCUoLkwK5vNnWVE1u++k="
+        }
+      ]
+    }
+  ]
+}

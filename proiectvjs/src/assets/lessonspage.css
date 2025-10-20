@@ -1,0 +1,184 @@
+.lessons-main {
+    display: flex;
+    flex-direction: column;
+    padding: 36px 0 0 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.filters-bar {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-bottom: 1px;
+    width: 100%;
+    max-width: 1150px;
+    margin: 0 auto 18px auto;
+    background: #f9fcff;
+    box-shadow: 0 4px 18px #6bc1ff0c;
+    border-radius: 12px;
+    min-height: 56px;
+}
+
+.search-bar {
+    flex: 1;
+    padding: 8px 15px;
+    border: 1px solid #c1e2f7;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-family: 'Inter', sans-serif;
+}
+.filters-bar select,
+.filters-bar label {
+    font-size: 0.98rem;
+}
+.lessons-section h2 {
+    margin-bottom: 10px;
+    color: #1976d2;
+    font-size: 1.3rem;
+}
+.lesson-actions {
+    margin-bottom: 14px;
+}
+.lesson-actions button {
+    margin-right: 12px;
+    background: #6bc1ff;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 7px 18px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.lesson-actions button:hover:enabled {
+    background: #2196f3;
+}
+.lesson-item {
+    background: #fff;
+    border-radius: 13px;
+    box-shadow: 0 4px 18px #6bc1ff13;
+    border: 1px solid #e0e7ef;
+    margin-bottom: 15px;
+    overflow: auto;
+    transition: box-shadow 0.15s;
+}
+.lesson-summary {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 16px 20px;
+    font-size: 1.10rem;
+    font-weight: 500;
+    color: #267be8;
+    background: #e9f7ff;
+    border-bottom: 1px solid #e0e7ef;
+}
+.lesson-summary .lesson-title {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+.check-icon {
+    color: #13b98f;
+    font-size: 1.25em;
+    margin-left: 4px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+.lesson-summary .lesson-author {
+    margin-left: 16px;
+    color: #13b98f;
+    font-size: 1.00rem;
+}
+.lesson-summary .lesson-date {
+    margin-left: 24px;
+    color: #99b0c0;
+    font-size: 0.99rem;
+}
+.lesson-details {
+    padding: 18px 28px 12px 28px;
+    animation: fadein 0.18s;
+}
+.lesson-attachment {
+    margin: 9px 0 16px 0;
+}
+.lesson-attachment a {
+    color: #267be8;
+    text-decoration: underline;
+}
+.lesson-interactions {
+    display: flex;
+    gap: 14px;
+    margin-top: 8px;
+}
+.lesson-interactions button {
+    padding: 7px 16px;
+    border-radius: 7px;
+    border: none;
+    background: #72e4d5;
+    color: #125c4c;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.lesson-interactions button[disabled], .lesson-interactions button:disabled {
+    background: #d6f3ef;
+    color: #b8c6c6;
+    cursor: not-allowed;
+}
+.lesson-interactions button:hover:enabled {
+    background: #13b98f;
+    color: #fff;
+}
+.lesson-comments {
+    margin-top: 16px;
+    font-size: 0.98rem;
+}
+.lesson-comments b {
+    color: #1976d2;
+}
+.comment-author {
+    font-weight: 600;
+    color: #267be8;
+}
+.no-comments {
+    color: #a2a2a2;
+    font-style: italic;
+}
+.add-comment {
+    margin-top: 10px;
+    display: flex;
+    gap: 8px;
+}
+.add-comment input {
+    flex: 1;
+    padding: 6px 12px;
+    border: 1px solid #b9e0ef;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-family: 'Inter', sans-serif;
+}
+.add-comment button {
+    padding: 6px 18px;
+    border-radius: 7px;
+    border: none;
+    background: #72e4d5;
+    color: #125c4c;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.add-comment button:hover {
+    background: #13b98f;
+    color: #fff;
+}
+.not-connected-msg {
+    color: #b22323;
+    margin-top: 10px;
+    font-size: 0.97em;
+}
+@keyframes fadein {
+    from { opacity: 0; transform: translateY(-15px);}
+    to { opacity: 1; transform: none;}
+}
